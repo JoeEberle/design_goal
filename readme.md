@@ -8,7 +8,7 @@ Having shared design goals within a development team promotes alignment, efficie
 ## design_goal <br>
 ![Image image_filename](sample.png)
 
-![Image image_filename]("solution_sign.png")
+![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
