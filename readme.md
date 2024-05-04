@@ -36,4 +36,4 @@ To get started with the **Design Goals ** solution repository, follow these step
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](design_goal.png)  <br>
+    ## Deliverables or Figures![additional_image](design_goal.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
