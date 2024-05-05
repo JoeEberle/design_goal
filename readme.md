@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Design Goals  - Design Goals 
 Design Goals 
 
@@ -7,8 +9,6 @@ Design Goals
 Having shared design goals within a development team promotes alignment, efficiency, and quality in the development process. It fosters teamwork and accountability, ensuring that efforts are focused on achieving common objectives. Ultimately, adhering to these goals leads to higher-quality solutions that meet user needs effectively and contribute to the overall success of the project.
 ## design_goal <br>
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
