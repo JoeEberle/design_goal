@@ -1,8 +1,8 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Design Goals  - Design Goals 
-Design Goals 
+# Design Goals  - nan
+nan
 
 ![Image image_filename](code.png)
 
