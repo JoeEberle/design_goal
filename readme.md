@@ -2,7 +2,7 @@
 Having shared design goals within a development team promotes alignment, efficiency, and quality in the development process. It fosters teamwork and accountability, ensuring that efforts are focused on achieving common objectives. Ultimately, adhering to these goals leads to higher-quality solutions that meet user needs effectively and contribute to the overall success of the project.
 
  <br>
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
