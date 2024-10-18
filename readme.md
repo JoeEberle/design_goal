@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Design Goals  
-    ## Design Goals 
+    
+# Design Goals  
+
+## Design Goals 
+
     ![Image image_filename](code.png)
 Having shared design goals within a development team promotes alignment, efficiency, and quality in the development process. It fosters teamwork and accountability, ensuring that efforts are focused on achieving common objectives. Ultimately, adhering to these goals leads to higher-quality solutions that meet user needs effectively and contribute to the overall success of the project.
 
@@ -25,9 +28,9 @@ To get started with the **Design Goals ** solution repository, follow these step
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Design Goals ** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -37,6 +40,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](design_goal.png)  <br>
